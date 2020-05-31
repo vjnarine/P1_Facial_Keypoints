@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+saved_modles/**
+data/**
+detector_architecture/**
+project1.zip.zip
+Udacity**
+saved_modles/**
